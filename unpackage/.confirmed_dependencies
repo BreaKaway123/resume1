@@ -1,0 +1,26 @@
+{
+  "index.html": {
+    "resources": [
+      "img/p2.png",
+      "js/swiper.animate1.0.2.min.js",
+      "js/jquery-1.12.1.js",
+      "img/p1.png",
+      "css/animate.css",
+      "img/jt.png",
+      "js/swiper-3.3.1.jquery.min.js",
+      "img/p3.png",
+      "css/swiper-3.3.1.min.css",
+      "img/me.png",
+      "img/xian.png",
+      "img/f1.gif",
+      "img/two1.gif",
+      "img/f3.png",
+      "img/f4.bmp",
+      "img/f4.png",
+      "img/wx.png",
+      "img/qq.png",
+      "css/resume.css"
+    ],
+    "refer": []
+  }
+}
